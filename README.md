@@ -58,5 +58,7 @@ A terminal/command-line interface
 Output:
 
 <img width="1042" height="288" alt="Image" src="https://github.com/user-attachments/assets/31ef93e0-eab6-46b8-9523-ad20b9ddbc85" />
-<img width="448" height="247" alt="Image" src="https://github.com/user-attachments/assets/481dc6fc-94d9-40cb-902d-68b12ca8eba6" />
+
 <img width="465" height="222" alt="Image" src="https://github.com/user-attachments/assets/b93c03fd-b70d-42a8-866b-8bf75aadd310" />
+
+<img width="448" height="247" alt="Image" src="https://github.com/user-attachments/assets/481dc6fc-94d9-40cb-902d-68b12ca8eba6" />
